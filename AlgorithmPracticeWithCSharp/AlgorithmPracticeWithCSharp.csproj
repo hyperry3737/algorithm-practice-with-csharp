@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <StartupObject>Page92</StartupObject>
+    <StartupObject>Problem1032</StartupObject>
   </PropertyGroup>
 
 </Project>
